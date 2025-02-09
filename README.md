@@ -1,4 +1,3 @@
-# Distributed_computing
 # Distributed Computing
 
 
